@@ -1,0 +1,1 @@
+The user can than proceed to next step. It's important to ensure all data is correctly entered. Their are no other options.
